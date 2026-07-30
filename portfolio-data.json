@@ -1,0 +1,100 @@
+{
+  "designs": [
+    {
+      "image": "images/piece-01.png",
+      "alt": "Botanical Sheer",
+      "name": "Botanical Sheer",
+      "desc": "A floor-length sheer gown rendered over a sculpted mini dress beneath. The botanical sunflower motif covers the full body in teal and sage — nature worn as second skin.",
+      "details": [
+        {
+          "label": "Fabric / Textile",
+          "val": "Sheer organza over structured mini"
+        },
+        {
+          "label": "Technique",
+          "val": "Digital illustration, Procreate"
+        },
+        {
+          "label": "Colour Story",
+          "val": "Teal, sage, warm sand"
+        },
+        {
+          "label": "Available As",
+          "val": "Commission / Print / Lookbook"
+        }
+      ]
+    },
+    {
+      "image": "images/piece-02.png",
+      "alt": "Woven Stripe Gown",
+      "name": "Woven Stripe Gown",
+      "desc": "A striking bodycon silhouette built entirely from horizontal woven bands — navy, teal, olive and silver thread create rhythm across the body from neckline to floor.",
+      "details": [
+        {
+          "label": "Fabric / Textile",
+          "val": "Woven Aso-oke horizontal bands"
+        },
+        {
+          "label": "Technique",
+          "val": "Digital illustration, Procreate"
+        },
+        {
+          "label": "Colour Story",
+          "val": "Midnight navy, teal, olive, silver"
+        },
+        {
+          "label": "Available As",
+          "val": "Commission / Print / Lookbook"
+        }
+      ]
+    },
+    {
+      "image": "images/piece-03.png",
+      "alt": "Floral Bloom Gown",
+      "name": "Floral Bloom Gown",
+      "desc": "A full-length sheer gown ablaze in amber and fuchsia tropical print. The bold botanical pattern wraps the entire silhouette — a celebration of colour and femininity at its most fearless.",
+      "details": [
+        {
+          "label": "Fabric / Textile",
+          "val": "Sheer printed chiffon, bead hem trim"
+        },
+        {
+          "label": "Technique",
+          "val": "Digital illustration, Procreate"
+        },
+        {
+          "label": "Colour Story",
+          "val": "Amber, fuchsia, warm orange"
+        },
+        {
+          "label": "Available As",
+          "val": "Commission / Print / Lookbook"
+        }
+      ]
+    },
+    {
+      "image": "images/piece-04.png",
+      "alt": "Corset Collection",
+      "name": "The Corset Series",
+      "desc": "Three sculptural corset silhouettes — each paired with a draped skirt in crimson. Rose appliqué, gold brocade and floral lace tell three distinct stories within one unified collection.",
+      "details": [
+        {
+          "label": "Fabric / Textile",
+          "val": "Lace corset, draped silk skirt"
+        },
+        {
+          "label": "Technique",
+          "val": "Digital illustration, Procreate"
+        },
+        {
+          "label": "Colour Story",
+          "val": "Crimson, gold, ivory, deep burgundy"
+        },
+        {
+          "label": "Available As",
+          "val": "Commission / Print / Lookbook"
+        }
+      ]
+    }
+  ]
+}
